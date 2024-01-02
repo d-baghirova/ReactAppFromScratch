@@ -1,0 +1,23 @@
+{
+  "name": "react-app-from-scratch",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-baghirova/ReactAppFromScratch.git"
+  },
+  "keywords": [
+    "learn",
+    "react"
+  ],
+  "author": "Diana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-baghirova/ReactAppFromScratch/issues"
+  },
+  "homepage": "https://github.com/d-baghirova/ReactAppFromScratch#readme"
+}
